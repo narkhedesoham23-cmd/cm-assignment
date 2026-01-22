@@ -163,6 +163,6 @@ Scalability
     - Unit testing
 
 👤 Author
-Prathamesh Pawar
+Soham Narkhede
 Frontend Developer
 Project developed for hiring assignment submission.
